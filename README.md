@@ -8,7 +8,7 @@
 
 ## 📌 Sobre mim
 - 🎓 Estudante e profissional em formação na área de **Produto e Tecnologia**
-- 📊 Focado em atuar como **Product Owner**, conectando necessidades do negócio com soluções digitais
+- 📊 Focado em atuar como **Product Owner** e algo relacionado a **Dados**
 - 💻 Tenho interesse em desenvolvimento web, metodologias ágeis e gestão de produtos
 - 🧠 Busco entender o usuário, priorizar funcionalidades e gerar valor para o produto
 - 🤝 Gosto de trabalhar em equipe, organizar demandas e colaborar entre áreas técnicas e estratégicas
